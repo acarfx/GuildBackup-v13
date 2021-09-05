@@ -1,0 +1,32 @@
+{
+  "name": "acar-v13",
+  "version": "1.0.0",
+  "main": "acar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "acar",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.0.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "table": "^6.7.1"
+  },
+  "keywords": [
+    "acar"
+  ],
+  "description": "Gelişmiş sıfır altyapı tamamen ACAR tarafından yazılmıştır.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acarfx/acar-v13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acarfx/acar-v13/issues"
+  },
+  "homepage": "https://github.com/acarfx/acar-v13#readme"
+}
